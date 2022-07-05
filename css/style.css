@@ -1,0 +1,82 @@
+html{
+    
+font-family: 'Mukta', sans-serif;
+}
+body{
+    max-width: 1000px;
+    justify-content:center;
+    display: flex;
+    background-color:rgb(82, 79, 79);
+    color:#FFFFFF;
+    margin-bottom: 200px;
+    margin-left: 140px;
+    margin-right: 150px;
+
+    
+}
+
+.flower{
+    
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.title{
+    margin-left: 40px;
+}
+.contacts{
+    margin-left: 150px;
+    
+}
+.line-style{
+
+visibility:hidden;
+
+}
+.line-long{
+
+    margin-left: 40px;
+
+}
+
+.list-styles{
+
+    list-style-type: none;
+}
+.contact-style{
+    text-decoration:none;
+    
+    color: #FFFFFF;
+
+}
+
+.main-title{
+    width: 600px;
+    font-weight: 400;
+font-size: 60px;
+line-height: 55px;
+
+
+
+color: #FFFFFF;
+}
+.main-content{
+    
+    padding-left: 100px;
+    
+    margin-top: 80px;
+
+}
+.experience02{
+    display: inline-block;
+    width: 300px;
+}
+.education03{
+    
+    width: 300px;
+}
+.skills-lang{
+
+    margin-top: 245px;
+    
+   padding-top: 20px;
+}
